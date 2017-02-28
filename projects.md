@@ -79,7 +79,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 29. Półgęsek, Arkadiusz 21.02 28.02
 30. Pyszyńska, Martyna 21.02 28.02
 31. Sędek, Szymon 28.02
-63. Sadowski, Łukasz
+63. [Sadowski, Łukasz](https://github.com/lsadowski/projekt_ruby)
 32. [Stefański, Aleksander](https://github.com/astefanski1/rubyApp)
 33. [Szymanowski, Grzegorz](https://github.com/gwszymanowski/Ruby-projekt-indywidualny). [Biblioteka ksiazek](https://biblioteka-ksiazek.herokuapp.com/) 28.02
 34. [Świstun, Szymon](https://github.com/SzymonSwistun94/projekty-asi)
